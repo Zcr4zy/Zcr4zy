@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Carlos!</h1>
+<h1 align="left">👋 Olá, eu sou Carlos!</h1>
 
 ###
 
@@ -23,8 +23,8 @@
   </ul>
 </details>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ccunha_20/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-cunha-23b613214/)
 
 ---
 
